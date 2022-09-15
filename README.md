@@ -16,3 +16,5 @@ Aplicacion para replicar lo que hace una maquina de cafe.
 - Da un beneficio en la parte de Profit, donde aparece lo que se recauda y lo guarda en el sistema.
 - Devuelve el tipo de cafe que se selecciona.
 - Reduce los recursos usados.
+
+15 / 09/ 2022 --> Se han variado varias de las opciones en una branch. 
